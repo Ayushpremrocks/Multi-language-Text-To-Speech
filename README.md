@@ -51,14 +51,16 @@ Ensure you have Python 3.8+ and `pip` installed on your system.
 1. **Verify Flask Installation:** Run the following command in your terminal
    ```bash
    python -m flask --version
-  If Flask is installed, you will see output similar to this:
-  
-    Flask 2.3.3
-    Python 3.x.x
+   ```
+   If Flask is installed, you will see output similar to this:
+   ```bash
+   Flask 2.3.3
+   Python 3.x.x
 
 2. **If Flask is Not Installed:** Install Flask using:
    ```bash
    pip install Flask
+   ```
 ---
 
 ## License

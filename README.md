@@ -2,6 +2,10 @@
 
 A Flask-based web application that converts text into speech in multiple languages using Google Text-to-Speech (gTTS). The app provides a simple interface for users to input text, select a language, and generate audio output.
 
+![Screenshot of the model](assets/TTS-1.png)
+
+![Screenshot of the model](assets/TTS-2.png)
+
 ---
 
 ## **Features**
